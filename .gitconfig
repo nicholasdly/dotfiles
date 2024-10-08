@@ -1,7 +1,7 @@
 [user]
-	name = w3cj
-	email = cj@null.computer
+	name = nicholasdly
+	email = nichdly@gmail.com
 [core]
-	editor = nano
+	editor = vim
 [init]
 	defaultBranch = main
