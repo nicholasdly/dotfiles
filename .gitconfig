@@ -1,7 +1,11 @@
 [user]
-	name = "Nicholas Ly"
+	name = "nicholasdly"
 	email = "nichdly@gmail.com"
 [core]
 	editor = "vim"
 [init]
 	defaultBranch = "main"
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true
