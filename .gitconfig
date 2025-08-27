@@ -5,7 +5,3 @@
 	editor = "vim"
 [init]
 	defaultBranch = "main"
-[commit]
-	gpgsign = true
-[tag]
-	gpgsign = true
